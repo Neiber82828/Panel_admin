@@ -29,7 +29,7 @@ Aplicación web desarrollada con React y Vite que simula un panel administrativo
 * Vistas: Clientes, Proveedor, Usuarios, Logout
 * Diseño moderno con Tailwind
 
-## 📦 Instalación de dependencias
+## Instalación de dependencias
 
 ```bash
 npm install
@@ -39,10 +39,10 @@ npm install -D tailwindcss postcss autoprefixer
 npm install -D tailwindcss @tailwindcss/vite
 ```
 
-## 📸 Captura
+## Captura
 
 ![alt text](image-1.png)
 
-## 🔗 Repositorio
+## Repositorio
 
-(Pega aquí el link de GitHub)
+https://github.com/Neiber82828/Panel_admin.git
