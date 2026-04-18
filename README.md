@@ -57,29 +57,29 @@ content: [
 ## Implementación de rutas
 
 Se configuró el enrutamiento con React Router:
-Uso de BrowserRouter, Routes y Route
+Uso de BrowserRouter, Routes y Route, 
 Navegación sin recarga con NavLink
 
 ## Creación del Navbar
 
 Se diseñó una barra de navegación con:
-Logo (texto/ícono)
+Logo,
 Enlaces a las diferentes vistas
 
 ## Desarrollo de vistas
 
 Se crearon las páginas:
-Clientes
-Proveedor
-Usuarios
-Logout
+Clientes, 
+Proveedor, 
+Usuarios, 
+Logout, 
 Cada vista incluye un título visible.
 
 ## Mejoras de interfaz
 
 Se aplicaron estilos con Tailwind CSS:
-Colores personalizados
-Diseño responsive
+Colores personalizados, 
+Diseño responsive, 
 Efectos hover y estilos activos en navegación
 
 ## Captura
